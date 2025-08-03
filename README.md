@@ -1,8 +1,62 @@
-## Day 3
-**Date:** 2 August 2025
-**Day:** Saturday
+# Induction Program Report – 2025
+## Day 1  
+**Date:** 31 July 2025  
+**Day:** Thursday
+
+### 8:30 AM – 9:30 AM: Inaugural Session with Gurbani Kirtan  
+The induction program began with a peaceful and spiritual session of **Gurbani Kirtan**, which set a calm and respectful tone for the day. It was a serene beginning, reminding us to stay grounded and connected to our values as we step into college life.
+
+### 9:30 AM – 11:00 AM: Tea and Welcome Refreshments  
+After the kirtan, students were served tea and snacks. This gave us a moment to interact with fellow students and settle into the environment before the formal program resumed.
+
+### 11:00 AM onwards: Inaugural Program and Guest Lectures  
+The formal welcome ceremony began around 11:00 AM. We were addressed by several dignitaries and faculty members who shared valuable advice, motivation, and insight into the journey ahead.
+
+- **Mr. Ravinder Garg**, Chief Engineer at the Municipal Corporation, was the guest of honor. He inspired us to **respect our institution and teachers**, and to treat our time in college with seriousness and gratitude.  
+- **Dr. Sehajpal Singh**, our Principal, emphasized the need to **stay updated with technology** and keep enhancing our **skillset** to remain relevant in a fast-changing world.  
+- **Ms. Harpreet Kaur Grewal**, HOD of Applied Sciences, encouraged us to stay **persistent and prayerful**. She highlighted the importance of **perseverance** and how it ultimately leads to success, including final placements.  
+- **Mr. Ashok Singla**, Financial Consultant, introduced us to the **Vidya Lakshmi education loan portal** and shared practical advice on **financial literacy**, including the importance of saving money from an early stage.
+
+Each speaker added a unique perspective, helping us understand the importance of discipline, dedication, and awareness—both academically and personally.
+
+### Post-Lunch: Department Visits and Lab Tours  
+After the lunch break, students were taken on guided visits to their respective **departments and laboratories** to get familiar with the campus and facilities.  
+*Note: I was unable to attend the post-lunch session.*
+
+### Personal Reflection  
+The first day of the induction program was both welcoming and informative. It gave me a glimpse into the values of the institution and reminded me to approach this new phase of life with sincerity, awareness, and a willingness to grow. The sessions helped build a strong foundation for what lies ahead.
 
 ---
+
+## Day 2  
+**Date:** 1 August 2025  
+**Day:** Friday
+
+### 9:30 AM – 10:30 AM: English Proficiency Test  
+The day began with the English proficiency test. I found the test quite manageable and well-structured. It was a decent start to the day and helped ease into the induction mood.
+
+### 10:45 AM – 11:45 AM: Mathematics Proficiency Test  
+The mathematics test was challenging for me. I realized that I need to work more on strengthening my concepts and problem-solving speed. Although I struggled, I am taking this as motivation to improve. I believe this honest self-assessment will help me grow during my BTech journey.
+
+### 1:30 PM – 2:30 PM: Scholarship Information Session (Buddy4Study – Satya Scholarship)  
+In the afternoon, representatives shared detailed information about the Satya Scholarship under the Buddy4Study platform. The session covered eligibility criteria, required documents, application steps, and deadlines. It was an insightful session, especially helpful for students looking for financial support.
+
+### 2:30 PM – 3:15 PM: Lecture on “Food: A Pivotal Role in Student’s Overall Wellness”  
+**Speaker:** Dr Arashdeep Singh Sir  
+This session focused on how food impacts a student’s energy, focus, and overall well-being. Arashdeep Sir highlighted the importance of balanced nutrition, not consuming high sugar proteins, and hydration during student life. It was informative and made me reflect on my own eating habits.
+
+### 3:15 PM onwards: GitHub Introduction and Hands-On Activity  
+We were introduced to GitHub and its importance in collaboration. We created our GitHub accounts and made our very first repository. I also learned how to use basic Markdown formatting. This report is created as part of that hands-on task, and I’m excited to learn more about using GitHub in future projects.
+
+### Reflection  
+Although the day was long, it gave me a good mix of self-assessment, useful resources, and a fresh push to explore platforms like GitHub. I may have struggled with a few parts, especially Mathematics, but I’m not discouraged. I’m here to learn, improve, and give my best.
+
+---
+
+## Day 3
+**Date:** 2 August 2025  
+**Day:** Saturday
+
 ### Morning Mindfulness and Spiritual Start  
 Our HOD, Harpreet Kaur Grewal Ma'am, offered a quiet relaxation session to start the day. We were instructed to focus our inner energy and attain peace while keeping our eyes closed.  
 We started the day by remembering the divine by reciting the Mool Mantra. It was a brief but impactful period of quiet and peacefulness that calmed our minds.
@@ -35,4 +89,8 @@ She emphasized the importance of:
 ### Closing Words by HOD Harpreet Kaur Grewal Ma’am  
 The day ended with encouraging words from our HOD. She answered student questions, shared thoughtful advice, and reminded us to stay consistent with our practice—especially in mathematics. Her guidance was warm, honest, and supportive.
 
+### Personal Reflection  
+The sessions today helped me look beyond marks and success. I understood the value of staying spiritually aware, thinking deeply, and living with intention. College is not just about learning subjects, but about becoming a better, more balanced human being.
+
 ---
+
