@@ -93,4 +93,30 @@ The day ended with encouraging words from our HOD. She answered student question
 The sessions today helped me look beyond marks and success. I understood the value of staying spiritually aware, thinking deeply, and living with intention. College is not just about learning subjects, but about becoming a better, more balanced human being.
 
 ---
+## Day 4
+**Date:** 4 August 2025  
+**Day:** Monday
 
+### 9:30 AM – 10:30 AM: Chemistry Class  
+**Instructor: Dr. Rajvir Kaur**  
+The day began with our first Chemistry class. Dr. Rajvir Kaur Mam emphasized that we should study to understand applications and gain skills, not just for marks. She explained the importance of learning with real-world relevance and gave us an overview of the syllabus.
+
+### 10:30 AM – 11:30 AM: Peer-to-Peer Programming Session  
+In this session, our seniors introduced us to the basics of programming. They began with C++ syntax and foundational concepts. It was a beginner-friendly and encouraging session that helped us get comfortable with coding.
+
+### 12:30 PM – 2:30 PM: Universal Human Values Session  
+**Speaker: Dr. Priyadarshani Ma’am**  
+This session continued with a focus on understanding what is truly right for oneself. Ma’am explained a method of self-verification:
+- First, reflect using **natural acceptance**
+- Then, perform **experimental validation**
+- If the result leads to **mutual happiness**, it is the right decision
+
+She spoke about moving away from the loop of **excitement → indulgence → depression → escape** and instead striving for **continuous happiness and prosperity**. True happiness comes from **right understanding**—knowing the purpose behind our actions—not from preconditioning or sensations.
+
+### 2:30 PM – 3:00 PM: Causmic Club Introduction  
+The Causmic Club introduced themselves, sharing their mission, vision, and the kinds of events and activities they organize. It was an insightful introduction to co-curricular opportunities at the college.
+
+### 3:00 PM – 3:45 PM: Closing Activities  
+The day wrapped up with some final activities. We were given information about laptop requirements for our coursework. There was also a singing performance which brought a light and cheerful end to the day.
+
+---
