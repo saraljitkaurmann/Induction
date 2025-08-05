@@ -120,3 +120,33 @@ The Causmic Club introduced themselves, sharing their mission, vision, and the k
 The day wrapped up with some final activities. We were given information about laptop requirements for our coursework. There was also a singing performance which brought a light and cheerful end to the day.
 
 ---
+
+## Day 5
+**Date:** 5 August 2025  
+**Day:** Tuesday
+
+### 9:30 AM – 10:30 AM: English Lecture  
+**Instructor: Prof. Manjot Kaur**  
+The session began with an introduction to the syllabus of *Professional English Communication* and the paper pattern of the subject. After this, students were asked to introduce themselves. I also gave my introduction—although I felt a bit of stage fear, I managed to speak and complete it.
+
+### 10:30 AM – 11:30 AM: Mathematics Lecture  
+**Instructor: Prof. Rajbir Kaur**  
+In this lecture, we revised important concepts from Class 12 such as:
+
+- Matrices  
+- Differentiation  
+- Differential Equations  
+
+She asked questions to refresh our understanding and assess where we stand.
+
+### 11:30 AM – 12:30 PM: Basics of Electrical and Electronics Engineering (BEEE)  
+**Instructor: Prof. Manjeet Kaur**  
+Our first BEEE lecture began with a recap of physics concepts from Class 12, especially related to **Unit 1: DC Circuits**. We covered topics including:
+
+- Resistors  
+- Capacitance  
+- Inductors  
+- Ohm’s Law  
+- And other foundational components of DC circuits  
+
+--- 
