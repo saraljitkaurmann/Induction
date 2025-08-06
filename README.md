@@ -150,3 +150,42 @@ Our first BEEE lecture began with a recap of physics concepts from Class 12, esp
 - And other foundational components of DC circuits  
 
 --- 
+
+## Day 6 
+**Date:** 6 August 2025  
+**Day:** Wednesday
+
+### 9:30 AM – 10:30 AM: Peer-to-Peer (P2P) Session  
+In this second P2P lecture, our seniors introduced us to the **basic concepts of C++**.  
+We learned about:
+- Operators and their types  
+- Solved some beginner-level coding problems
+  
+It was a helpful and beginner-friendly session to get us started with programming.
+
+### 10:30 AM – 11:30 AM: Programming Concepts – Prof. Jaswant Singh  
+The lecture started a bit late but turned out to be quite interesting.  
+Prof. Jaswant Singh:
+- Gave a brief introduction about himself  
+- Explained the **meanings of concepts like syntax, logic, and programming** in a fun and engaging way  
+- Made the session interactive  
+- Also gave us some valuable advice on how to **behave well and maintain discipline in college**
+
+### 1:30 PM – 2:30 PM: Talk by Gurcharan Singh Grewal Sir 
+Gurcharan Singh Grewal Sir gave us an inspiring session where he:
+- Spoke about **GNDEC’s values and selfless service**  
+- Encouraged us to always **respect our parents**  
+- Shared stories from the **history and legacy of the college**
+
+### 2:30 PM – 4:00 PM: Dr. Lakhvir Singh Khanna (Incharge – CML)  
+This session focused on **holistic development** and student opportunities. Dr. Lakhvir Singh Khanna discussed:
+- Event management and **need-based services** for students  
+- Filled forms and introduced the **SWAYAM/NPTEL** portal  
+- Motivated us to take **4-week or 8-week online courses** to:  
+  - Improve our resume  
+  - Enhance knowledge  
+  - Strengthen our chances of getting into IITs or top placements
+    
+It was a highly informative and motivating session for all of us.
+
+---
