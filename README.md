@@ -189,3 +189,30 @@ This session focused on **holistic development** and student opportunities. Dr. 
 It was a highly informative and motivating session for all of us.
 
 ---
+
+## Day 7 
+**Date:** 7 August 2025  
+**Day:** Thursday
+
+### 9:30 AM – 10:15 AM: Motivational Talk by Dr. Parminder Singh (Dean – Student Welfare)  
+The day began with an inspiring session by Dr. Parminder Singh. He encouraged us to follow our passion, acknowledge our limitations, and turn mistakes into lessons.  
+
+He also familiarized us with the facilities available on campus such as the central library, computer center, sports areas, banks, canteens, and medical amenities including the dispensary and ambulance services.  
+We were introduced to NSS activities like tree plantation drives, blood donation camps, and anti-drug campaigns. Dr. Singh also highlighted various student clubs including data science, digital marketing, fine arts, and photography. The anti-ragging environment and available scholarships were also discussed.
+
+Following this, we had a short interaction with our seniors and HOD of Applied Sciences, Ms. Harpreet Kaur Grewal. She took our feedback on the induction program and introduced us to the TANG website to share our art works.
+
+### 10:30 AM – 11:45 AM: Digital Marketing Club – Dr. Arvind Kamra  
+Dr. Kamra introduced us to the Digital Marketing Club, sharing its journey and impact. He explained how joining the club can enhance both academic performance and skill development in areas like content creation, creative thinking, and photo/video editing.
+
+He also announced a competition inviting us to create a reel or short video showcasing our personal experience at college — something I’m looking forward to participating in.
+
+### 11:45 AM – 12:30 PM: Conduct of Examination – Dr. Randhir Singh  
+Dr. Randhir Singh sir gave an insightful lecture on the conduct of examinations and academic policies. One line that stood out was: **"Ignorance is not an excuse."**  
+He explained the marking scheme, attendance requirements, passing criteria, rules around detention and reappear exams, and guided us through useful academic websites.
+
+### 1:30 PM – 2:30 PM: BEEE Lecture – Prof. Mandeep Kaur  
+In the post-lunch session, Prof. Mandeep Kaur continued teaching from the **DC circuits** unit. We covered topics such as how temperature affects resistance and were introduced to the concept and classification of electric networks and circuits.
+
+---
+
