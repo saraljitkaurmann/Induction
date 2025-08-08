@@ -215,4 +215,32 @@ He explained the marking scheme, attendance requirements, passing criteria, rule
 In the post-lunch session, Prof. Mandeep Kaur continued teaching from the **DC circuits** unit. We covered topics such as how temperature affects resistance and were introduced to the concept and classification of electric networks and circuits.
 
 ---
+## Day 8 
+**Date:** 8 August 2025  
+**Day:** Friday
 
+### 9:00 AM – 12:00 PM: Peer-to-Peer (P2P) Programming Session
+
+Today’s schedule was light in terms of the number of sessions. The **Chemistry lecture was cancelled** as the professor had to attend an urgent event.  
+
+However, the **Peer-to-Peer (P2P)** session conducted by our seniors was extensive and highly informative. Spanning three hours, the session covered several foundational concepts of **C++ programming**, and the explanations were both clear and effective.
+
+The topics covered included:
+
+- **Loops:**  
+  We learned about the three primary types of loops – `for`, `while`, and `do-while`. Each type was explained with syntax, flow, and real-life examples. The practical approach helped me understand the logic behind them with ease.
+
+- **Scope of Variables:**  
+  The concept of **local** and **global** scope was introduced, showing how variable visibility and lifetime depend on where they are declared.
+
+- **Conditional Statements:**  
+  The session also covered conditional structures such as the `if`, `if-else`, and `if-else if-else` statements. The seniors explained how decision-making works in programs using these control structures.
+
+- **Data Types:**  
+  We revised the basic C++ data types, including their memory sizes (in bytes), and understood how and when to use each.
+
+In addition, we were guided on setting up our programming environments. The seniors told us to install **code editors** and configure them correctly to begin writing and testing C++ code independently.
+
+Overall, the session was **highly productive**, and I felt much more confident with the basic building blocks of programming in C++. The interactive nature of the session kept us engaged and motivated to practice further.
+
+---
